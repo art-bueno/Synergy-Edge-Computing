@@ -20,3 +20,7 @@ Servidor Flask:
 Desenvolvemos endpoints que recebem dados do ESP32, armazenam no FIWARE (Orion Context Broker) e permitem consultas.
 Orion Context Broker:
 Configuramos o Orion para gerenciar os dados de consumo energético, com suporte para consultas e armazenamento.
+
+
+Arthur Bueno de Oliveira - RM 558396
+Victor Magdaleno Marcos - RM 556729
